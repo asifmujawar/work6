@@ -1,0 +1,125 @@
+body {
+	font-family: "Bai Jamjuree", sans-serif;
+	text-align: center;
+	margin: 0;
+}
+p {
+	color: lightgray;
+	font-size: 1.3rem;
+}
+/*********History of Evything Area************/
+/* History Area */
+#History {
+	background-image: url("..//images/bg-header-desktop.png");
+	background-repeat: no-repeat;
+	background-size: cover;
+	padding:20px 40px;
+}
+/* Big Logo */
+.Clip-img {
+	margin-top: 100px;
+}
+.History-Heading {
+	font-size: 3.5rem;
+}
+/* Download Button Area */
+.btn {
+	margin-left: 20px;
+	margin-top: 20px;
+	margin-bottom: 30px;
+}
+/* Mac Button */
+.mac {
+	background-color: hsl(233, 100%, 69%);
+	color: #fff;
+}
+
+/***************Keep Track Area **********/
+#keep-track{
+	padding:20px 40px;
+}
+.Track-Snippets {
+	margin-top: 100px;
+}
+.Track-Heading {
+	font-size: 2.5rem;
+}
+.computer-mac {
+	width: 100%;
+}
+.Track-message {
+	text-align: left;
+	padding-left: 100px;
+	margin-top: 30px;
+	/* font-size: 1.3rem; */
+}
+.Track-features {
+	margin-top: 50px;
+}
+
+/* Access Clipboard Anywhere Area */
+#Access{
+	padding:20px 40px;
+}
+.Access-snippets {
+	margin-top: 100px;
+}
+.device-image {
+	width: 70%;
+	margin-top: 50px;
+}
+.row {
+	margin-top: 100px;
+}
+
+/***** SuperCharge Your Workflow Area ********/
+
+#Connect-area {
+	text-align: left;
+	background-color: #f5f6f8;
+}
+
+.Super-Charge {
+	margin-top: 30px;
+}
+.Partner-img {
+	padding: 88px;
+}
+/* Footer Area */
+footer {
+	margin-top: 30px;
+	text-align: center;
+}
+.row {
+	padding-top: 30px;
+}
+.footer-logo {
+	width: 70px;
+}
+.social-links {
+	text-align: left;
+}
+.social-logos {
+	margin-top: 25px;
+}
+.media-logo {
+	padding: 10px;
+}
+.attribution {
+	font-size: 11px;
+	margin-top: 20px;
+	text-align: center;
+}
+.attribution a {
+	color: hsl(228, 45%, 44%);
+}
+
+/* Media Query area */
+@media only screen and (max-width: 1000px) {
+	.social-links {
+		text-align: center;
+	}
+	.footer-logo {
+		margin-bottom: 30px;
+	}
+}
